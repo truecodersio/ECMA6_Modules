@@ -1,0 +1,25 @@
+{
+  "name": "ECMA6_Modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truecodersio/ECMA6_Modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truecodersio/ECMA6_Modules/issues"
+  },
+  "homepage": "https://github.com/truecodersio/ECMA6_Modules#readme",
+  "dependencies": {
+    "webpack": "^5.24.3",
+    "webpack-cli": "^4.5.0"
+  }
+}
